@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>kStonic - The Meme Coin Inspired by Kia Stonic</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #000;
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+    }
+    header img {
+      height: 60px;
+      margin-right: 20px;
+    }
+    header h1 {
+      font-size: 2rem;
+    }
+    .banner {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+    }
+    .container {
+      padding: 20px;
+    }
+    .description {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+    .links a {
+      color: #00bcd4;
+      text-decoration: none;
+      display: block;
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #1e1e1e;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="log1.jpg" alt="kStonic Logo">
+    <h1>kStonic</h1>
+  </header>
+  <img class="banner" src="ban 2.jpg" alt="kStonic Banner">
+  <div class="container">
+    <div class="description">
+      <p><strong>kStonic</strong> is the first meme coin inspired by the Kia Stonic — bold, stylish, and ready to race through the crypto streets. Built for car lovers and meme warriors, $kStonic combines automotive design with decentralized finance.</p>
+    </div>
+    <div class="links">
+      <a href="https://x.com/KiaStonic?t=crAmW-G8vZZYUVJNzomY_A&s=09" target="_blank">🐦 Twitter</a>
+      <a href="https://t.me/+P2BLGBK11JAyNzY0" target="_blank">💬 Telegram</a>
+      <a href="#">🔗 Contract Address: Token Adress in Telegram</a>
+    </div>
+  </div>
+  <footer>
+    &copy; 2025 kStonic. All rights reserved.
+  </footer>
+</body>
+</html>
+  <header>
+    <img src="logo.png" alt="kStonic Logo">
+    <h1>kStonic</h1>
+  </header>
+  <img class="banner" src="banner.png" alt="kStonic Banner">
+  <div class="container">
+    <div class="description">
+      <p><strong>kStonic</strong> is the first meme coin inspired by the Kia Stonic — bold, stylish, and ready to race through the crypto streets. Built for car lovers and meme warriors, $kStonic combines automotive design with decentralized finance.</p>
+    </div>
+    <div class="links">
+      <a href="https://twitter.com/kStonicCoin" target="_blank">🐦 Twitter</a>
+      <a href="https://t.me/kStonicOfficial" target="_blank">💬 Telegram</a>
+      <a href="#">🔗 Contract Address: 0xYourTokenAddressHere</a>
+    </div>
+  </div>
+  <footer>
+    &copy; 2025 kStonic. All rights reserved.
+  </footer>
+</body>
+</html>
